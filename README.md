@@ -20,8 +20,17 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 ![HuggingFace](https://github.com/mmgxa/mmgxa/raw/main/images/HuggingFace1.svg)
 
 
-
-
+### Repositories
+- [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/E2_P)
+- [Text Generation Model on Kubernetes with Ingress](https://github.com/mmgxa/E3_S17)
+- [Comparison of LLM Quantization](https://github.com/mmgxa/E3_S24)
+- [Canary Deployment via GitOps using Argo CD on EKS](https://github.com/mmgxa/E3_S23)
+- [Multi-Model Deployment with Scaling on EKS via Knative](https://github.com/mmgxa/E3_S22)
+- [CI/CD with Kubeflow Pipelines on EKS with GPU and External Domain](https://github.com/mmgxa/E3_S21)
+- [Kubeflow Pipelines on EKS](https://github.com/mmgxa/E3_S20)
+- [Deploying SDXL on KServe and Monitoring via Prometheus, Grafana, and Kiali](https://github.com/mmgxa/E3_S19)
+- [Horizontal and Vertical Pod Scaling using Karpenter on EKS](https://github.com/mmgxa/E3_S18)
+- [Deploying GPT on Kubernetes with a FrontEnd](https://github.com/mmgxa/E3_S17)
 <!--
 **mmgxa/mmgxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
