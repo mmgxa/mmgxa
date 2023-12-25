@@ -22,6 +22,8 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 
 ### Repositories
 - [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/E2_P)
+- [Microservice for deploying Stable (Video) Diffusion](https://github.com/mmgxa/micro_svd)
+- [Fine-Tuning Model using QLoRa and Deploying via vLLM on KServe](https://github.com/mmgxa/chat_llm_ft_kserve)
 - [Text Generation Model on Kubernetes with Ingress](https://github.com/mmgxa/E3_S17)
 - [Comparison of LLM Quantization](https://github.com/mmgxa/E3_S24)
 - [Canary Deployment via GitOps using Argo CD on EKS](https://github.com/mmgxa/E3_S23)
