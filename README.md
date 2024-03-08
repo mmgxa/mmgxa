@@ -21,8 +21,10 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 
 
 ### Repositories
+- [A Multi-Model, Multi-Modal Agent Based Chatbot on EKS](https://github.com/mmgxa/llm_lmm_chatbot)
 - [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/E2_P)
 - [Microservice for deploying Stable (Video) Diffusion](https://github.com/mmgxa/micro_svd)
+- [Deploying LLaVA with Constraint-based Sampling on CPU](https://github.com/mmgxa/llava_llama_gbnf)
 - [Fine-Tuning Model using QLoRa and Deploying via vLLM on KServe](https://github.com/mmgxa/chat_llm_ft_kserve)
 - [Text Generation Model on Kubernetes with Ingress](https://github.com/mmgxa/E3_S17)
 - [Comparison of LLM Quantization](https://github.com/mmgxa/E3_S24)
@@ -33,6 +35,7 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 - [Deploying SDXL on KServe and Monitoring via Prometheus, Grafana, and Kiali](https://github.com/mmgxa/E3_S19)
 - [Horizontal and Vertical Pod Scaling using Karpenter on EKS](https://github.com/mmgxa/E3_S18)
 - [Deploying GPT on Kubernetes with a FrontEnd](https://github.com/mmgxa/E3_S17)
+- [RAG with LocalAI + LlamaIndex + ChromaDB](https://github.com/mmgxa/llamaindex_rag)
 <!--
 **mmgxa/mmgxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
