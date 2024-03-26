@@ -36,6 +36,7 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 - [Horizontal and Vertical Pod Scaling using Karpenter on EKS](https://github.com/mmgxa/E3_S18)
 - [Deploying GPT on Kubernetes with a FrontEnd](https://github.com/mmgxa/E3_S17)
 - [RAG with LocalAI + LlamaIndex + ChromaDB](https://github.com/mmgxa/llamaindex_rag)
+- [LLM Evaluation Frameworks](https://github.com/mmgxa/llm_eval)
 <!--
 **mmgxa/mmgxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
