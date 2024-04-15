@@ -22,19 +22,18 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 
 ### Repositories
 - [A Multi-Model, Multi-Modal Agent Based Chatbot on EKS](https://github.com/mmgxa/llm_lmm_chatbot)
-- [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/E2_P)
+- [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/mlops_sagemaker)
 - [Microservice for deploying Stable (Video) Diffusion](https://github.com/mmgxa/micro_svd)
 - [Deploying LLaVA with Constraint-based Sampling on CPU](https://github.com/mmgxa/llava_llama_gbnf)
 - [Fine-Tuning Model using QLoRa and Deploying via vLLM on KServe](https://github.com/mmgxa/chat_llm_ft_kserve)
-- [Text Generation Model on Kubernetes with Ingress](https://github.com/mmgxa/E3_S17)
+- [Deploying Text Generation Model on Kubernetes with Ingress](https://github.com/mmgxa/llm_deploy_k8s)
 - [Comparison of LLM Quantization](https://github.com/mmgxa/E3_S24)
 - [Canary Deployment via GitOps using Argo CD on EKS](https://github.com/mmgxa/E3_S23)
 - [Multi-Model Deployment with Scaling on EKS via Knative](https://github.com/mmgxa/E3_S22)
-- [CI/CD with Kubeflow Pipelines on EKS with GPU and External Domain](https://github.com/mmgxa/E3_S21)
+- [CI/CD with Kubeflow Pipelines on EKS with GPU and External Domain](https://github.com/mmgxa/kubeflow_cicd_eks)
 - [Kubeflow Pipelines on EKS](https://github.com/mmgxa/E3_S20)
 - [Deploying SDXL on KServe and Monitoring via Prometheus, Grafana, and Kiali](https://github.com/mmgxa/E3_S19)
 - [Horizontal and Vertical Pod Scaling using Karpenter on EKS](https://github.com/mmgxa/E3_S18)
-- [Deploying GPT on Kubernetes with a FrontEnd](https://github.com/mmgxa/E3_S17)
 - [RAG with LocalAI + LlamaIndex + ChromaDB](https://github.com/mmgxa/llamaindex_rag)
 - [LLM Evaluation Frameworks](https://github.com/mmgxa/llm_eval)
 <!--
