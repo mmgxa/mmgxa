@@ -24,6 +24,7 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 - [A Multi-Model, Multi-Modal Agent Based Chatbot on EKS](https://github.com/mmgxa/llm_lmm_chatbot)
 - [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/mlops_sagemaker)
 - [Multimodal RAG using ImageBind, ChromaDB, and LLaVA](https://github.com/mmgxa/multimodal_rag)
+- [Deep Learning on HPC/SLURM](https://github.com/mmgxa/dl_slurm)
 - [Microservice for deploying Stable (Video) Diffusion](https://github.com/mmgxa/micro_svd)
 - [LLM Inference using RayServe on Kubernetes](https://github.com/mmgxa/rayserve)
 - [Deploying LLaVA with Constraint-based Sampling on CPU](https://github.com/mmgxa/llava_llama_gbnf)
