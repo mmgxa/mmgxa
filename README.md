@@ -1,5 +1,5 @@
 ### Hi there 👋
-A Deep learning enthusiast with a background in Electronic Engineering.
+A Deep learning enthusiast with a background in Engineering.
 
 
 Extensive hands-on experience with Deep Learning, MLOps, Cloud Computing (AWS). Well-versed in NLP, transformers, and distributed training.
@@ -23,6 +23,7 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 ### Repositories
 - [A Multi-Model, Multi-Modal Agent Based Chatbot on EKS](https://github.com/mmgxa/llm_lmm_chatbot)
 - [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/mlops_sagemaker)
+- [RAG - Evaluation via LLM-as-a-Judge and Monitoring](https://github.com/mmgxa/rag-with-eval)
 - [Multimodal RAG using ImageBind, ChromaDB, and LLaVA](https://github.com/mmgxa/multimodal_rag)
 - [Deep Learning on HPC/SLURM](https://github.com/mmgxa/dl_slurm)
 - [Microservice for deploying Stable (Video) Diffusion](https://github.com/mmgxa/micro_svd)
