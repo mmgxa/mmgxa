@@ -21,6 +21,7 @@ Interested in NLP, LLM, Large-Scale Deployment and Inference, Model Optimization
 
 
 ### Repositories
+- [Serving LLMs via NVIDIA Dynamo](https://github.com/mmgxa/nvidia_dynamo)
 - [A Multi-Model, Multi-Modal Agent Based Chatbot on EKS](https://github.com/mmgxa/llm_lmm_chatbot)
 - [End-to-End MLOps Pipeline using SageMaker Pipelines](https://github.com/mmgxa/mlops_sagemaker)
 - [RAG - Evaluation via LLM-as-a-Judge and Monitoring](https://github.com/mmgxa/rag-with-eval)
